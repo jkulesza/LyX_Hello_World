@@ -3,6 +3,11 @@
 \begin_document
 \begin_header
 \textclass article
+\begin_preamble
+\usepackage{cite}
+\renewcommand\citeleft{}
+\renewcommand\citeright{}
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -33,7 +38,7 @@
 \pdf_bookmarksopen false
 \pdf_bookmarksopenlevel 1
 \pdf_breaklinks false
-\pdf_pdfborder false
+\pdf_pdfborder true
 \pdf_colorlinks false
 \pdf_backref false
 \pdf_pdfusetitle true
@@ -57,7 +62,7 @@
 \paperorientation portrait
 \suppress_date false
 \justification true
-\use_refstyle 1
+\use_refstyle 0
 \index Index
 \shortcut idx
 \color #008000
@@ -114,6 +119,18 @@ Introduction
 \begin_layout Standard
 This document is intended to introduce new users to basic features of LyX
  and to demonstrate those features in a concise fashion.
+ Note that citations work like a charm, such as Refs.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Article_NST_Takeda_3D_Neutron_XPort_Benchmarks_2G_XSs,nfm4_helios_bandw_1484,Case_and_Zweifel_1965,Numerical_Recipes_F77,Proceedings_MC2013_Herman_Imp_Diff_Coeff_2013"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Section
@@ -171,7 +188,7 @@ reference "eq:Simple Integral"
 \end_layout
 
 \begin_layout Section
-Tables
+Tables & Figures
 \end_layout
 
 \begin_layout Standard
@@ -343,10 +360,6 @@ Variance (
 
 \end_layout
 
-\begin_layout Section
-Figures
-\end_layout
-
 \begin_layout Standard
 Similarly, images are typically inserted in 
 \begin_inset Quotes eld
@@ -403,6 +416,17 @@ name "fig:Example-Figure"
 \begin_layout Plain Layout
 
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "lyx_hello_world"
+options "ieeetr"
 
 \end_inset
 
