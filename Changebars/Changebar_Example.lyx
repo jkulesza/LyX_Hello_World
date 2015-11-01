@@ -1,0 +1,167 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+
+
+\setlength{\changebarwidth}{0.5pt}
+\cbcolor{black}
+\end_preamble
+\use_default_options true
+\begin_modules
+changebars
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes true
+\output_changes true
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\author 1119979965 "Joel A. Kulesza" 
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Nam ut volutpat leo.
+ Etiam at tempus est, vitae accumsan metus.
+ Proin auctor lacus mollis ipsum maximus, id dignissim ipsum egestas.
+ Sed pharetra nisi ut nunc placerat, eget egestas lacus venenatis.
+ Mauris
+\change_deleted 1119979965 1446305213
+ consectetur fermentum est
+\change_unchanged
+, eget consectetur metus pellentesque laoreet.
+ In condimentum ut metus sit amet imperdiet.
+ Integer velit nisl, pharetra sed mauris vel, tempor facilisis augue.
+ Etiam dignissim vel enim nec pretium.
+
+\change_inserted 1119979965 1446305199
+ This is a test.
+ 
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+Nulla dapibus euismod mattis.
+ Suspendisse nec volutpat lorem.
+ Nunc venenatis fringilla placerat.
+ Phasellus ultrices velit pretium erat ullamcorper, in dapibus nulla rhoncus.
+ Aenean quis elit elit.
+ Donec purus elit, hendrerit eu nibh eu, hendrerit ultrices nisi.
+ Praesent nec ipsum ut libero viverra facilisis.
+\end_layout
+
+\begin_layout Standard
+Vivamus et finibus velit.
+ Aenean sagittis, mi non sodales porttitor, lacus mauris ornare neque, ac
+ congue ex felis sit amet metus.
+ Aenean lacinia lobortis nibh id tincidunt.
+ Sed aliquet velit in pellentesque scelerisque.
+ Morbi posuere lectus sed massa vestibulum, a vestibulum nisl rhoncus.
+ Sed urna odio, ultricies at odio at, tempor placerat metus.
+ Fusce auctor magna ut orci tempor, eget dictum mi volutpat.
+
+\change_inserted 1119979965 1446304014
+ Also a test.
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+Nulla in ante at tortor lacinia blandit in at quam.
+ Cras pulvinar elit vel tellus molestie, eget malesuada leo scelerisque.
+ Cras ultricies erat rhoncus eros posuere consectetur.
+ Aliquam quis interdum mauris.
+ Nulla vel lacinia dolor.
+ Curabitur lobortis accumsan massa et luctus.
+ Pellentesque rutrum feugiat fringilla.
+ Mauris in sollicitudin neque, ut rhoncus justo.
+ Sed molestie libero sed augue tristique pharetra.
+ Proin ligula quam, bibendum ut ex ut, porttitor aliquet est.
+ Donec nec sapien enim.
+ Interdum et malesuada fames ac ante ipsum primis in faucibus.
+ Suspendisse eu pretium tellus.
+ Nunc congue interdum sapien, id ullamcorper nibh.
+ Donec mattis nibh diam, et lacinia elit egestas et.
+
+\change_inserted 1119979965 1446304022
+ A final test.
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+Nunc eget sem tincidunt, accumsan neque non, tempus sapien.
+ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+ cubilia Curae; Aenean volutpat tempor diam, nec volutpat justo porta sed.
+ Quisque sollicitudin tortor justo, at dictum urna mollis ut.
+ Nam eget dictum dui.
+ Aliquam tincidunt hendrerit porta.
+ Praesent eget lacus nec orci euismod malesuada sit amet eu ex.
+ Aliquam faucibus convallis ex et varius.
+ Nunc ultrices vel lorem eu venenatis.
+ Etiam molestie massa in metus rhoncus, eget mollis dolor varius.
+\end_layout
+
+\end_body
+\end_document
