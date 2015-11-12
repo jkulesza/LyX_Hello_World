@@ -7,4 +7,4 @@ These features include:
 * Basic Formatting
 * Equations & Labels / Cross-References
 * Tables & Labels / Cross-References
-* Figures * Labels / Cross-References
+* Figures & Labels / Cross-References
